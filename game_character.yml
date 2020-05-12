@@ -1,0 +1,25 @@
+Sunshangxiang:
+  hp: 1000
+  power: 150
+  skill: 2
+
+Xiaoqiao:
+  hp: 800
+  power: 180
+  skill: 2.5
+
+Hanxin:
+  hp: 1500
+  power: 200
+  skill: 1.5
+
+Yase:
+  hp: 2000
+  power: 100
+  skill: 1.2
+
+default:
+  - Sunshangxiang
+  - Xiaoqiao
+  - Hanxin
+  - Yase
